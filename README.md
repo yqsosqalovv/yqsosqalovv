@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yqsosqalovv?tab=repositories](https://github.com/yqsosqalovv?tab=repositories
+- 👨‍💻 All of my projects are available at [yqsosqalovv](https://github.com/yqsosqalovv?tab=repositories)
 - 
 - 💬 Ask me about **C#, C++, PHP.**
 
