@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C++, Java**
 
 - 👨‍💻 All of my projects are available at [yqsosqalovv](https://github.com/yqsosqalovv?tab=repositories)
-- 
+  
 - 💬 Ask me about **C#, C++, PHP.**
 
 - 📫 How to reach me **farconback@gmail.com**
