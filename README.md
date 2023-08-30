@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
+[![MasterHead](https://camo.githubusercontent.com/7f1940ee1c24cfc3d83719c3f49408e71540412bae56170a0001b646e4374f39/68747470733a2f2f7777772e73656f636c65726b2e636f6d2f706963732f3632333334392d317a7255696d313533343232383833322e6a7067)
 <h1 align="center">Hi 👋, I'm Asylzhan Sosqalovv</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
