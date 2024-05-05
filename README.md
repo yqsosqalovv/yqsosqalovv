@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **farconback@gmail.com**
 
-- ⚡ Fun fact **Im im im...**
+- ⚡ Fun fact **mm...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
