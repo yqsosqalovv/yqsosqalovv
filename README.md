@@ -1,5 +1,5 @@
 <h1 align="center">Good evening , I'm Asylzhan</h1>
-<h3 align="center">Senior developer from KZ</h3>
+<h3 align="center">Junior developer from KZ</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yqsosqalovv&label=Profile%20views&color=0e75b6&style=flat" alt="yqsosqalovv" /> </p>
